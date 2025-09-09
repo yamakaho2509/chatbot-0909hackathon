@@ -18,7 +18,7 @@ except KeyError:
         "プロジェクトのルートディレクトリに`.streamlit/secrets.toml`ファイルを作成し、"
         "以下の形式でAPIキーを追加してください。\n\n"
         "```toml\n"
-        "google_api_key = \"YOUR_API_KEY\"\n"
+        "google_api_key = \"AIzaSyC_x-mBMSL9ZTgXEeDLWALelSYF_2I8uf4\"\n"
         "```"
     )
     st.stop()
