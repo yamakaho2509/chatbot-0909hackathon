@@ -3,9 +3,6 @@ import google.generativeai as genai
 
 # Show title and description.
 st.title("💬 Chatbot")
-st.write(
-    "This is a chtabot."
-)
 
 # Ask user for their Google API key via `st.text_input`.
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
