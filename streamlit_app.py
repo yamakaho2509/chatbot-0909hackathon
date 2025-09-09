@@ -4,7 +4,7 @@ import google.generativeai as genai
 # Show title and description.
 st.title("💬 Chatbot")
 st.write(
-    "This is a simple chatbot that uses Google's Gemini Flash 2.5 model to generate response."
+    "This is a chtabot."
 )
 
 # Ask user for their Google API key via `st.text_input`.
